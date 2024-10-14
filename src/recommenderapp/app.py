@@ -270,9 +270,9 @@ def before_request():
     load_dotenv()
     g.db = mysql.connector.connect(
         user="root",
-        password=os.getenv("DB_PASSWORD"),
+        password='svrsvrsvr',
         host="127.0.0.1",
-        database="popcornpicksdb",
+        database="PopcornPicksDB",
     )
 
 
