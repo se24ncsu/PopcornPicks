@@ -1,6 +1,6 @@
 # PopcornPicks Developers Chat
 
-<img src="asset/chat.png" width="1000">
+[Screenshot 2024-11-26 at 10 28 23 PM](https://github.com/user-attachments/assets/54e47712-682e-436e-8417-ba1c12e99c26)
 
 
 This is a screenshot of what our developers' communication channel looks like.
